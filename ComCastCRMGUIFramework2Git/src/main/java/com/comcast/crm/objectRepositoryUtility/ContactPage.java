@@ -24,7 +24,7 @@ public class ContactPage {
 	@FindBy(name="Searchbtn2")
 	private WebElement ele2;
 	
-	@FindBy(name="text")
-	private WebElement ele3;
+	@FindBy(name="textbox")
+	private WebElement ele4;
 	
 }
