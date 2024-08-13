@@ -21,4 +21,6 @@ public class ContactPage {
 	@FindBy(name="Search")
 	private WebElement ele1;
 	
+	@FindBy(name="Searchbtn2")
+	private WebElement ele2;
 }
