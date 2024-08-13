@@ -17,4 +17,8 @@ public class ContactPage {
 	public WebElement getCreateContactbtn() {
 		return createContactbtn;
 	}
+	
+	@FindBy(name="Search")
+	private WebElement ele1;
+	
 }
